@@ -239,4 +239,4 @@ This repository serves as the official landing page for Hero Lab. The software i
 **Get the most recent version of Hero Lab today!**
 
 ---
-**Last updated:** 2026-10-19 23:27:04 UTC
+**Last updated:** 2026-10-20 04:06:25 UTC
